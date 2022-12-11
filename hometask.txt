@@ -1,0 +1,1 @@
+Разница в кол-ве файлов. В master 6, а в demo 5. В master, в отличии от demo есть файл fix readme. 
